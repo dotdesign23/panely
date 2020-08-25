@@ -1,0 +1,1 @@
+.preview{background-repeat:no-repeat;background-position-y:bottom;background-position-x:calc(100% - 1.5rem);background-size:auto 30rem;background-image:url(../assets/preview.webp)}@media (max-width:1024.98px){.preview{background-size:auto 20rem}}@media (max-width:767.98px){.preview{background:0 0}}.preview-container{height:65vh}
