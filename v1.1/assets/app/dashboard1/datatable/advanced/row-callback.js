@@ -1,0 +1,1 @@
+"use strict";$(function(){$("#datatable-1").DataTable({responsive:!0,createdRow:function(t,e){var a=$(t).children("td").eq(5),d=e[5]<40?"text-primary font-weight-bold":"text-danger font-weight-bold";a.addClass(d)}})});

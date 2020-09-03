@@ -1,0 +1,1 @@
+"use strict";$(function(){var t="rtl"===$("html").attr("dir")?"rtl":"ltr";$("#mail-to").select2({dir:t,dropdownAutoWidth:!0,placeholder:"To",tags:!0}),new Quill("#mail-editor",{theme:"snow",placeholder:"Compose your message..."})});
