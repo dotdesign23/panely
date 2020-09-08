@@ -1,0 +1,1 @@
+"use strict";$(function(){$("#select-all").on("change",function(){$(this).is(":checked")?$(".mail-checkbox").attr("checked",!0):$(".mail-checkbox").attr("checked",!1)})});
